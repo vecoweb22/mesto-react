@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vecoweb22/mesto-react/static/css/main.5825feab.css",
-    "main.js": "/vecoweb22/mesto-react/static/js/main.3f2fd3f0.js",
+    "main.css": "/vecoweb22/mesto-react/static/css/main.1610e0f6.css",
+    "main.js": "/vecoweb22/mesto-react/static/js/main.b16d9035.js",
     "static/js/787.5530211c.chunk.js": "/vecoweb22/mesto-react/static/js/787.5530211c.chunk.js",
     "static/media/Inter-Medium.woff": "/vecoweb22/mesto-react/static/media/Inter-Medium.f5549f68ca7db479bc7d.woff",
     "static/media/Inter-Black.woff": "/vecoweb22/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -17,12 +17,12 @@
     "static/media/edit.svg": "/vecoweb22/mesto-react/static/media/edit.6c7bf05444b9793fdf6e.svg",
     "static/media/editIcon.svg": "/vecoweb22/mesto-react/static/media/editIcon.6c7bf05444b9793fdf6e73a2dd202e7e.svg",
     "static/media/addIcon.svg": "/vecoweb22/mesto-react/static/media/addIcon.bed8c136e13907f5eefb86d62a5fe29e.svg",
-    "main.5825feab.css.map": "/vecoweb22/mesto-react/static/css/main.5825feab.css.map",
-    "main.3f2fd3f0.js.map": "/vecoweb22/mesto-react/static/js/main.3f2fd3f0.js.map",
+    "main.1610e0f6.css.map": "/vecoweb22/mesto-react/static/css/main.1610e0f6.css.map",
+    "main.b16d9035.js.map": "/vecoweb22/mesto-react/static/js/main.b16d9035.js.map",
     "787.5530211c.chunk.js.map": "/vecoweb22/mesto-react/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5825feab.css",
-    "static/js/main.3f2fd3f0.js"
+    "static/css/main.1610e0f6.css",
+    "static/js/main.b16d9035.js"
   ]
 }
